@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-labelledby="title">
+  <title id="title">Windy Wood Creations</title>
+  <rect width="360" height="64" fill="none"/>
+  <g fill="#ffffff">
+    <path d="M17 15h30v6H24v9h20v6H24v13h-7V15Zm42 0h7v34h-7V15Zm22 0h7l17 22V15h7v34h-6L88 26v23h-7V15Zm48 0h13c11 0 18 7 18 17s-7 17-18 17h-13V15Zm13 28c7 0 11-4 11-11s-4-11-11-11h-6v22h6Zm45-7-14-21h8l10 15 10-15h8l-15 21v13h-7V36Zm47-21h7l7 23 8-23h6l8 23 7-23h7l-11 34h-6l-8-23-8 23h-6l-11-34Zm62 17c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18Zm29 0c0-6-5-11-11-11s-11 5-11 11 5 11 11 11 11-5 11-11Z"/>
+  </g>
+  <text x="18" y="58" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="5">CREATIONS</text>
+</svg>
